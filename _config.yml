@@ -44,11 +44,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Author
 author:
-  name             : "Yannic Vargas L. author"
+  name             : "Yannic Vargas L."
   avatar           : "/images/bio-photo-2.jpeg"
   bio              : "Mathematician
   location         : "Austria"
-  employer         :
+  employer         : "T.U. Graz"
   email            : "yannicmath@gmail.com"
   github           : "yannicmath"
 
@@ -58,9 +58,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonasrenault"
-   # - label: "Instagram"
-   #  icon: "fab fa-fw fa-instagram"
-   # url: "https://instagram.com/jonasrza"
+    - label: "Instagram"
+     icon: "fab fa-fw fa-instagram"
+    url: "https://instagram.com/jonasrza"
 
 
 # Defaults
