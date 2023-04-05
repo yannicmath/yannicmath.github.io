@@ -13,7 +13,7 @@ classes: wide
 **“[Hopf algebras of Stirling permutations and planar trees](https://www.sciencedirect.com/science/article/pii/S0196885822001208)"**, joint with Amy
 Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Mathematics*, Volume 143, February 2023, 102436.
 
-**"[Antipode formulas for pattern Hopf algebras](https://arxiv.org/pdf/2210.15778.pdf)"**, joint with Raúl Penaguiao.
+**"[Antipode formulas for pattern Hopf algebras](https://arxiv.org/abs/2210.15778)"**, joint with Raúl Penaguiao.
 
 ### Refereed conference proceedings
 {: style="font-size:.85em; color: #7a8288;"}
