@@ -6,25 +6,34 @@ author_profile: true
 classes: wide
 ---
 
-### Computer Science
+### Preprints and publications
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Cartolabe: A web-based Scalable Visualization of Large Document Collections**, *IEEE CG&A, 2021*  
-Philippe Caillou, Jonas Renault, Jean-Daniel Fekete, Anne-Catherine Letournel, Michèle Sebag  
-[https://hal.inria.fr/hal-02499006v1](https://hal.inria.fr/hal-02499006v1)
+**“[Hopf algebras of Stirling permutations and planar trees](https://www.sciencedirect.com/science/article/pii/S0196885822001208)"**, joint with Amy
+Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Mathematics*, Volume 143, February 2023, 102436.
 
-**MASSICCC: A SaaS Platform for Clustering and Co-Clustering of Mixed Data**, *Workshop MixStatSeq, 2018*  
-Christophe Biernacki, Benjamin Auder, Gilles Celeux, Josselin Demont, Florent Langrognet, Vincent Kubicki, Christian Poli, Jonas Renault  
-[https://hal.inria.fr/hal-01949175v1](https://hal.inria.fr/hal-01949175v1)
+**"[Antipode formulas for pattern Hopf algebras](https://arxiv.org/pdf/2210.15778.pdf)"**, joint with Raúl Penaguiao.
 
-
-### Humanities and Social Sciences
+### Refereed conference proceedings
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Trouble dans le sujet. Subjectivation, performativité & critique chez Judith Butler**, *2020*  
-Mémoire de master philosophie 2e année, dir. Judith Revel, Université Paris Nanterre
+**“Hopf algebra of permutation pattern functions"**, 26th International Con-
+ference on Formal Power Series and Algebraic Combinatorics (FPSAC
+2014), 839-850, Discrete Math. Theor. Comput. Sci. Proc., AS.
 
-**La nature du temps dans la pensée de Jacques Rancière**, *2019*  
-Mémoire de master philosophie 1e année, dir. Patrice Maniglier, Université Paris Nanterre
+
+### Ongoing projects
+{: style="font-size:.85em; color: #7a8288;"}
+---
+
+**"On geometric realizations of s-permutahedra via flow polytopes"**, joint with Rafael S. González D'León, Alejandro H. Morales, Eva Philippe, Daniel Tamayo Jiménez and Martha Yip.
+
+**“Nested Chen sums and interated integrals"**, joint with Diego López and Sylvie Paycha.
+
+**“Antipode formulas for pattern Hopf algebras and reciprocity"**, joint with Raúl Penaguião.
+
+**"Asymptotic formulae for the number of coloured partitions of an integer"**, joint with Stella Brassesco and Arnaud Meyroneinc.
+
+**"[MATH-AmSud](https://www.sticmathamsud.org/sitio/) collaboration"**: ALGONCOMB (Algebraic structures supported in families of combinatorial objects). 
