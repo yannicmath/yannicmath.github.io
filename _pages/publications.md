@@ -35,4 +35,4 @@ Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Ma
 
 **"Asymptotic formulae for the number of coloured partitions of an integer"**, joint with Stella Brassesco and Arnaud Meyroneinc.
 
-**"[MATH-AmSud](https://www.sticmathamsud.org/sitio/) collaboration"**: ALGONCOMB (Algebraic structures supported in families of combinatorial objects). 
+**[MATH-AmSud](https://www.sticmathamsud.org/sitio/) collaboration**: ALGONCOMB (Algebraic structures supported in families of combinatorial objects). 
