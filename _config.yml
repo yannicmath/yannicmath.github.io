@@ -45,7 +45,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 author:
   name             : "Yannic Vargas L"
   avatar           : "/images/bio-photo-2.jpeg"
-  bio              : "Mathematician
+  bio              : "Mathematician"
   location         : "Austria"
   employer         : "T.U. Graz"
   email            : "yannicmath@gmail.com"
