@@ -2,11 +2,9 @@
 main:
   - title: "About"
     url: "/"
-    
-  - title: "Work"
-    url: /work/
 
   - title: "Publications"
     url: /publications/
 
-
+  - title: "Activities and travel"
+    url: /work/
