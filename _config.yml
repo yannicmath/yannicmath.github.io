@@ -46,11 +46,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 author:
   name             : "Yannic Vargas L. author"
   avatar           : "/images/bio-photo-2.jpeg"
-  bio              : "Research Engineer / Senior Fullstack Developer"
-  location         : "France"
+  bio              : "Mathematician
+  location         : "Austria"
   employer         :
-  email            : "jonasrenault@gmail.com"
-  github           : "jonasrenault"
+  email            : "yannicmath@gmail.com"
+  github           : "yannicmath"
 
 # Site Footer
 footer:
