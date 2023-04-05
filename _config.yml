@@ -58,8 +58,8 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonasrenault"
     - label: "Instagram"
-     icon: "fab fa-fw fa-instagram"
-    url: "https://instagram.com/jonasrza"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/jonasrza"
 
 
 # Defaults
