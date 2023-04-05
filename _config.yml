@@ -21,7 +21,7 @@
 title: Yannic Vargas L
 email: yannicmath@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Yannic Vargas L. - Mathematician
+  Yannic Vargas L - Mathematician
 domain: yannicmath.github.io
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -43,7 +43,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Author
 author:
-  name             : "Yannic Vargas L."
+  name             : "Yannic Vargas L"
   avatar           : "/images/bio-photo-2.jpeg"
   bio              : "Mathematician
   location         : "Austria"
