@@ -6,6 +6,11 @@ author_profile: true
 classes: wide
 ---
 
+Hi! I am a postdoctoral researcher at [Institut für Diskrete Mathematik](https://www.math.tugraz.at/idm/) at the [Graz University of Technology](https://www.tugraz.at/home).
+
+
+I am a member of the ANR-FWF International Cooperation Project [PAGCAP](https://pagcap.lisn.upsaclay.fr/) (Beyond Permutahedra and Associahedra: Geometry, Combinatorics, Algebra, and Probability), working with [Cesar CEBALLOS](http://www.geometrie.tugraz.at/ceballos/index.html) and [Franz LEHNER](https://www.math.tugraz.at/~lehner/).
+
 Hi! I'm a senior research engineer and fullstack developer, with master's degrees in applied mathematics, computer science and artificial intelligence. I specialize in developing data analysis and visualization tools, mostly with Python and JavaScript frameworks.
 
 I have twelve years of experience working as a software developer, and for the past six years I’ve been contributing to open-source projects while working as a research engineer for French research institutes (CNRS, INRIA). I have an interest for public service and projects that tackle current social and political problems through the development of human-focused software, data analysis and visualization.
