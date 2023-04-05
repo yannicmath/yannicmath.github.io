@@ -13,7 +13,7 @@ I am a member of the ANR-FWF International Cooperation Project [PAGCAP](https://
 
 My research interests are enumerative and algebraic combinatorics related to algebra, non-commutative probability, mathematical physics, combinatorics on words, combinatorial Hopf algebras, combinatorial species, symmetric and non-symmetric operads.
 
-#I am a scientific dissemination enthusiast, interested to develop learning communities that reinforce students’ self-identity as scientists, specially in #Latin America. 
+# I am a scientific dissemination enthusiast, interested to develop learning communities that reinforce students’ self-identity as scientists, specially in Latin America. 
 
 Before joining the Institut für Diskrete Mathematik at TU Graz I held postdoctoral and visitor positions at the [Weierstrass Institute for Applied Analysis and Sotchastics](https://www.wias-berlin.de/), the [Working Group on Analysis](https://www.math.uni-potsdam.de/en/professuren/translate-to-english-analysis) of the [Institute of Mathematics](https://www.math.uni-potsdam.de/en/) at the [University of Potsdam](https://www.uni-potsdam.de/en/), the Instituto Venezolano de Investigaciones Científicas, York University and the Fields Insitute. 
 
