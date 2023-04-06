@@ -10,7 +10,7 @@ Hi! I am a postdoctoral researcher at [Institut für Diskrete Mathematik](https:
 
 I am a member of the ANR-FWF International Cooperation Project [PAGCAP](https://pagcap.lisn.upsaclay.fr/) (Beyond Permutahedra and Associahedra: Geometry, Combinatorics, Algebra, and Probability), working with [Cesar CEBALLOS](http://www.geometrie.tugraz.at/ceballos/index.html) and [Franz LEHNER](https://www.math.tugraz.at/~lehner/).
 
-My research interests are enumerative and algebraic combinatorics related to algebra, non-commutative probability, mathematical physics, combinatorics on words, combinatorial Hopf algebras, combinatorial species, symmetric and non-symmetric operads.
+My mathematical interests lie primarily in enumerative and algebraic combinatorics. My research focuses on problems related to non-commutative probability, mathematical physics, combinatorics on words, combinatorial Hopf algebras, combinatorial species, symmetric and non-symmetric operads.
 
 I am also currently serving as the Managing Editor of [Communications in Mathematical Physics](https://www.springer.com/journal/220/updates).
 
