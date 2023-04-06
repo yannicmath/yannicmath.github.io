@@ -28,3 +28,6 @@ classes: wide
 
 **[Séminaire du Laboratoire d’Informatique Gaspard-Monge](https://siteigm.univ-mlv.fr/seminaires/)**:
 *Structure de bigèbre infinitésimal de* $\mathfrak{S}\textsf{Sym}$ *et nouvelle base de* $\text{Prim}(\mathfrak{S}\textsf{Sym})$. Université Gustave Eiffel, Paris.  
+
+**[Seminar](https://www.math.tugraz.at/discrete/index.php): Advanced Topics in Discrete Mathematics**, *Algebraic
+and coalgebraic structures on permutations*, TU Graz, Graz.
