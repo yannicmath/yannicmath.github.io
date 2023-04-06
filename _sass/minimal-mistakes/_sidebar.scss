@@ -62,11 +62,11 @@
   }
 
   img {
-    width: 200%;
+    width: 100%;
 
     &.emoji {
-      width: 0px;
-      height: 0px;
+      width: 20px;
+      height: 20px;
     }
   }
 }
@@ -134,12 +134,12 @@
   }
 
   img {
-    max-width: 2000px;
-    border-radius: 0%;
+    max-width: 110px;
+    border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 0px;
-      border: 0px solid $border-color;
+      padding: 5px;
+      border: 1px solid $border-color;
     }
   }
 }
@@ -179,9 +179,7 @@
 
 .author__bio {
   margin: 0;
-  font-size: 0.9em;
-  font-style: italic;
-   
+
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
