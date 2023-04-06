@@ -19,4 +19,5 @@ classes: wide
 ---
 
 **Séminaire du LACIM**: *Hopf algebras, species and free probability*. March 3th 2023, Université du Québec à Montréal, Montréal.
+
 **Discrete CATS seminar**: *Hopf algebras, species and free probability*, March 10th 2023, University of Kentucky, Lexington.
