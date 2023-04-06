@@ -27,5 +27,5 @@ classes: wide
 **2022**
 
 **[Séminaire du Laboratoire d’Informatique Gaspard-Monge](https://siteigm.univ-mlv.fr/seminaires/)**:
-*Structure de bigèbre infinitésimal de \\(\mathfrak{S}\textsf{Sym}\\) et nouvelle base de
+*Structure de bigèbre infinitésimal de \(\mathfrak{S}\textsf{Sym}\) et nouvelle base de
 $\text{Prim}(\mathfrak{S}\textsf{Sym})$*. Université Gustave Eiffel, Paris.
