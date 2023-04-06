@@ -18,10 +18,10 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-2023
+**2023**
 
-**Discrete CATS seminar[https://math.as.uky.edu/discrete-cats-seminar-31]**: *Hopf algebras, species and free probability*, March 10th 2023, University of Kentucky, Lexington.
+**[Discrete CATS seminar](https://math.as.uky.edu/discrete-cats-seminar-31)**: *Hopf algebras, species and free probability*, March 10th 2023, University of Kentucky, Lexington.
 
-**Séminaire du LACIM[https://lacim.uqam.ca/seminaires/]**: *Hopf algebras, species and free probability*. March 3th 2023, Université du Québec à Montréal, Montréal.
+**[Séminaire du LACIM](https://lacim.uqam.ca/seminaires/)**: *Hopf algebras, species and free probability*. March 3th 2023, Université du Québec à Montréal, Montréal.
 
 
