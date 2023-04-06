@@ -32,7 +32,7 @@ classes: wide
 **[Seminar](https://www.math.tugraz.at/discrete/index.php): Advanced Topics in Discrete Mathematics**, *Algebraic
 and coalgebraic structures on permutations*, TU Graz, Graz.
 
-**[Workshop: Calcul moulien et algèbres de Hopf combinatoires](https://lmbp.uca.fr/~manchon/Besse2022.html)**, *Formules cumulant-moment à l'aide de l'antipode de la double algàbre tensorielle*, Station Biologique de Besse, Besse.
+**[Workshop: Calcul moulien et algèbres de Hopf combinatoires](https://lmbp.uca.fr/~manchon/Besse2022.html)**, *Formules cumulant-moment à l'aide de l'antipode de la double algèbre tensorielle*, Station Biologique de Besse, Besse.
 
 **XXXII Jornadas Venezolanas de Matemáticas (virtual)**, *Factorización del espectro de incidencia y Laplaciano de un grafo usando operadores ineales*, joint with Jean Carlos Liendo, Valencia.
 
