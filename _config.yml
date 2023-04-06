@@ -173,6 +173,9 @@ analytics:
     tracking_id: "G-DGQ7BQQ1DV"
     anonymize_ip: false # default
 
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
 
 <!-- Parse the Latex divs with Katex-->
 <script type="text/javascript">
