@@ -27,4 +27,4 @@ classes: wide
 **2022**
 
 **[Séminaire du Laboratoire d’Informatique Gaspard-Monge](https://siteigm.univ-mlv.fr/seminaires/)**:
-*Structure de bigèbre infinitésimal de $a^2 + b^2 = c^2, \, \mathfrak{S}$ et nouvelle base de*. Université Gustave Eiffel, Paris.  
+*Structure de bigèbre infinitésimal de* $\mathfrak{S}\textsf{Sym}$ *et nouvelle base de*. Université Gustave Eiffel, Paris.  
