@@ -31,3 +31,6 @@ classes: wide
 
 **[Seminar](https://www.math.tugraz.at/discrete/index.php): Advanced Topics in Discrete Mathematics**, *Algebraic
 and coalgebraic structures on permutations*, TU Graz, Graz.
+
+**[Workshop: Calcul moulien et algèbres de Hopf combinatoires](https://lmbp.uca.fr/~manchon/Besse2022.html)**,
+*Combinatorial formulas in free probability*, Station Biologique de Besse, Besse.
