@@ -173,6 +173,25 @@ analytics:
     tracking_id: "G-DGQ7BQQ1DV"
     anonymize_ip: false # default
 
+
+<!-- Parse the Latex divs with Katex-->
+<script type="text/javascript">
+  $("script[type='math/tex']").replaceWith(
+    function(){
+      var tex = $(this).text();
+      return katex.renderToString(tex, {displayMode: false});
+  });
+  
+  $("script[type='math/tex; mode=display']").replaceWith(
+    function(){
+      var tex = $(this).text();
+      return katex.renderToString(tex.replace(/%.*/g, ''), {displayMode: true});
+  });
+</script>
+
+
+
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
