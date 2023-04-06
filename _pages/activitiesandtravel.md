@@ -42,7 +42,7 @@ and coalgebraic structures on permutations*, TU Graz, Graz.
 
 **[Geo2Int](https://sites.google.com/view/geo2int): Workshop in Geometry and Geometric integration**, Bergen.
 
-**[19th WORKSHOP](https://www.impan.pl/en/activities/banach-center/conferences/22-19thworkshop): Noncommutative probability, noncommutative harmonic analysis and related topics, with applications**, Stefan Banach Conference Center of the Polish Academy of Sciences, Będlewo.
+**[19th WORKSHOP](https://www.impan.pl/en/activities/banach-center/conferences/22-19thworkshop): Noncommutative probability, noncommutative harmonic analysis and related topics, with applications**, Stefan Banach Conference Center of the Polish Academy of Sciences, Będlewo. 
 
 
 
