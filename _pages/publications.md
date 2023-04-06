@@ -19,7 +19,7 @@ Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Ma
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**“Hopf algebra of permutation pattern functions"**, 26th International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC
+**“[Hopf algebra of permutation pattern functions](https://dmtcs.episciences.org/2446)"**, 26th International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC
 2014), 839-850, Discrete Math. Theor. Comput. Sci. Proc., AS.
 
 
