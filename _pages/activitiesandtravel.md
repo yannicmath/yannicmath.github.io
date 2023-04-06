@@ -34,9 +34,7 @@ and coalgebraic structures on permutations*, TU Graz, Graz.
 
 **[Workshop: Calcul moulien et algèbres de Hopf combinatoires](https://lmbp.uca.fr/~manchon/Besse2022.html)**, *Formules cumulant-moment à l'aide de l'antipode de la double algàbre tensorielle*, Station Biologique de Besse, Besse.
 
-**XXXII Jornadas Venezolanas de Matemáticas (virtual)**, *Fac-
-torizaciń del espectro de incidencia y Laplaciano de un grafo usando
-operadores ineales*, joint with Jean Carlos Liendo, Valencia.
+**XXXII Jornadas Venezolanas de Matemáticas (virtual)**, *Factorización del espectro de incidencia y Laplaciano de un grafo usando operadores ineales*, joint with Jean Carlos Liendo, Valencia.
 
 **[Summer School in Algebraic Combinatorics](https://sites.google.com/view/acombikrakow)**, *Algebraic combinatorics of moment-to-cumulant relations* (Poster).  Institute of Mathematics of the Jagiellonian University, Kraków.
 
