@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "Activities and travel"
-permalink: /Activities and travel/
+permalink: /Activitiesandtravel/
 author_profile: true
 classes: wide
 ---
