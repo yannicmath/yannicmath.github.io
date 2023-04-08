@@ -19,7 +19,7 @@ Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Ma
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-*Algebraic structures on combinatorial species*, joint with Marcelo Aguiar
+*Estructuras algebraicas en especies combinatorias*, joint with Marcelo Aguiar
 and José Bastidas. Chapter in “Algebraic and Geometric Combinatorics",
 Cambridge University Press, to appear.
 
