@@ -18,7 +18,7 @@ I am also currently serving as the Managing Editor of [Communications in Mathema
 I am a scientific dissemination enthusiast, interested to develop learning communities that reinforce students’ self-identity as scientists, specially in Latin America.
 -->
 
-Before joining the Institut für Diskrete Mathematik at TU Graz I held postdoctoral and visitor positions at the [Weierstrass Institute for Applied Analysis and Stochastics](https://www.wias-berlin.de/), the [Working Group on Analysis](https://www.math.uni-potsdam.de/en/professuren/translate-to-english-analysis) of the [Institute of Mathematics](https://www.math.uni-potsdam.de/en/) at the [University of Potsdam](https://www.uni-potsdam.de/en/), Instituto Venezolano de Investigaciones Científicas, York University and the Fields Insitute. 
+Before joining the Institut für Diskrete Mathematik at TU Graz I held postdoctoral and visitor positions at the [Weierstrass Institute for Applied Analysis and Stochastics](https://www.wias-berlin.de/), the [Working Group on Analysis](https://www.math.uni-potsdam.de/en/professuren/translate-to-english-analysis) of the Institute of Mathematics at the University of Potsdam, Instituto Venezolano de Investigaciones Científicas, York University and the [Fields Insitute](http://www.fields.utoronto.ca/). 
 
 Previously, I completed my Ph.D. in Mathematical Combinatorics at the [Laboratoire d’Algèbre, de Combinatoire et d’Informatique Mathématique](https://lacim.uqam.ca) (LACIM) of the [Université du Québec à Montréal](https://uqam.ca/) (UQAM), under the supervision of Christophe REUTENAUER and Franco SALIOLA.
 
