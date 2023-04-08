@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Activities and travel"
+title: "Events and talks"
 permalink: /activitiesandtravel/
 author_profile: true
 classes: wide
 ---
 
-### Upcoming talks/events:
+### Upcoming events/talks:
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
