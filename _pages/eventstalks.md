@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Events and talks"
-permalink: /activitiesandtravel/
+permalink: /eventstalks/
 author_profile: true
 classes: wide
 ---
