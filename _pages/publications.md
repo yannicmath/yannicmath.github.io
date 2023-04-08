@@ -19,6 +19,15 @@ Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Ma
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
+**``Algebraic structures on combinatorial species´´**,joint with Marcelo Aguiar
+and José Bastidas. Chapter in “Algebraic and Geometric Combinatorics",
+Cambridge University Press, to appear
+
+
+### Refereed conference proceedings
+{: style="font-size:.85em; color: #7a8288;"}
+---
+
 **“[Hopf algebra of permutation pattern functions](https://dmtcs.episciences.org/2446)"**, 26th International Conference on Formal Power Series and Algebraic Combinatorics (FPSAC
 2014), 839-850, Discrete Math. Theor. Comput. Sci. Proc., AS.
 
