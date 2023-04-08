@@ -15,7 +15,7 @@ Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Ma
 
 **"[Antipode formulas for pattern Hopf algebras](https://arxiv.org/abs/2210.15778)"**, joint with Raúl Penaguiao.
 
-### Refereed conference proceedings
+### Book chapters
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
