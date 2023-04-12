@@ -12,7 +12,7 @@ I am a member of the ANR-FWF International Cooperation Project [PAGCAP](https://
 
 My mathematical interests lie primarily in enumerative and algebraic combinatorics. My research focuses on problems related to non-commutative probability, mathematical physics, combinatorics on words, combinatorial Hopf algebras, operads and species.
 
-I am also currently serving as the Managing Editor of [Communications in Mathematical Physics](https://www.springer.com/journal/220/updates).
+I am also currently serving as the Managing Editor of [Communications in Mathematical Physics](https://www.springer.com/journal/220/).
 
 <!---
 I am a scientific dissemination enthusiast, interested to develop learning communities that reinforce students’ self-identity as scientists, specially in Latin America.
