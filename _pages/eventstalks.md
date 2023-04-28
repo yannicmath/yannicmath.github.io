@@ -10,8 +10,6 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**ESI Workshop**: [Non-commutative Geometry meets Topological Recursion](https://www.esi.ac.at/events/e502/). ESI, University of Vienna. April 24-28, 2023. Vienna, Austria. 
-
 **PAGCAP Workshop**: [Weissensee workshop](https://pagcap.lisn.upsaclay.fr/2022-austria-workshop.html). May 14-17, 2023. Weissensee, Austria. 
 
 ### Past activities:
@@ -19,6 +17,8 @@ classes: wide
 ---
 
 **2023**
+
+**ESI Workshop**: [Non-commutative Geometry meets Topological Recursion](https://www.esi.ac.at/events/e502/). ESI, University of Vienna. April 24-28, 2023. Vienna, Austria. 
 
 **[Discrete CATS seminar](https://math.as.uky.edu/discrete-cats-seminar-31)**: *Hopf algebras, species and free probability*, March 10th 2023, University of Kentucky, Lexington.
 
