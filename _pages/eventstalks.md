@@ -10,7 +10,7 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-Researc visit: [Perimeter Institute](https://perimeterinstitute.ca/). June 12-24, 2023. Waterloo, Canada. 
+Research visit: [Perimeter Institute](https://perimeterinstitute.ca/). June 12-24, 2023. Waterloo, Canada. 
 
 ### Past activities:
 {: style="font-size:.85em; color: #7a8288;"}
