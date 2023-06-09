@@ -38,7 +38,7 @@ Cambridge University Press, to appear.
 
 **"Algebraic structure of the Hopf algebra of packed words"**.
 
-**"On geometric realizations of s-permutahedra via flow polytopes"**, joint with Rafael S. González D'León, Alejandro H. Morales, Eva Philippe, Daniel Tamayo Jiménez and Martha Yip.
+**"Flow polytopes and lattice quotients"**, joint with Rafael S. González D'León, Alejandro H. Morales, Eva Philippe, Daniel Tamayo Jiménez and Martha Yip.
 
 **“Nested Chen sums and interated integrals"**, joint with Diego López and Sylvie Paycha.
 
