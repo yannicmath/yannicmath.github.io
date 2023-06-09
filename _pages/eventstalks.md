@@ -10,13 +10,15 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**PAGCAP Workshop**: [Weissensee workshop](https://pagcap.lisn.upsaclay.fr/2022-austria-workshop.html). May 14-17, 2023. Weissensee, Austria. 
+Researc visit: [Perimeter Institute](https://perimeterinstitute.ca/). June 12-24, 2023. Waterloo, Canada. 
 
 ### Past activities:
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
 **2023**
+
+**PAGCAP Workshop**: [Weissensee workshop](https://pagcap.lisn.upsaclay.fr/2022-austria-workshop.html). May 14-17, 2023. Weissensee, Austria. 
 
 **ESI Workshop**: [Non-commutative Geometry meets Topological Recursion](https://www.esi.ac.at/events/e502/). ESI, University of Vienna. April 24-28, 2023. Vienna, Austria. 
 
