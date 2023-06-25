@@ -10,13 +10,15 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-Research visit: [Perimeter Institute](https://perimeterinstitute.ca/). June 12-24, 2023. Waterloo, Canada. 
+**Workshop**: [Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI 2023)](http://www.catmi.no/). Lie-Størmer Center. June 26–30, 2023. Bergen, Norway. 
 
 ### Past activities:
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
 **2023**
+
+Research visit: [Perimeter Institute](https://perimeterinstitute.ca/). June 12-24, 2023. Waterloo, Canada. 
 
 **PAGCAP Workshop**: [Weissensee workshop](https://pagcap.lisn.upsaclay.fr/2022-austria-workshop.html). May 14-17, 2023. Weissensee, Austria. 
 
