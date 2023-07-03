@@ -10,13 +10,15 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Workshop**: [Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI 2023)](http://www.catmi.no/). Lie-Størmer Center. June 26–30, 2023. Bergen, Norway. 
+**Conference**: [Journées annuelles du GT CombAlg + Journée de l'ANR Combiné ]([http://www.catmi.no/](https://jagtcombalg.sciencesconf.org/)). Université Paris-Cité, July 3-5, 2023. Paris, France. 
 
 ### Past activities:
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
 **2023**
+
+**Workshop**: [Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI 2023)](http://www.catmi.no/). Lie-Størmer Center. June 26–30, 2023. Bergen, Norway. 
 
 Research visit: [Perimeter Institute](https://perimeterinstitute.ca/). June 12-24, 2023. Waterloo, Canada. 
 
