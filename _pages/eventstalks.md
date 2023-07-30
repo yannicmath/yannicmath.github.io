@@ -10,13 +10,16 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**Conference**: [Journées annuelles du GT CombAlg + Journée de l'ANR Combiné ]([http://www.catmi.no/](https://jagtcombalg.sciencesconf.org/)). Université Paris-Cité, July 3-5, 2023. Paris, France. 
+**[Summer School in Algebraic, Asymptotic and Enumerative Combinatorics](https://sites.google.com/impan.pl/23-summeralgcom)**, *Series on species and moment-to-cumulant formulae* (Talk). Mathematical Research and Conference Center, Będlewo.
+
 
 ### Past activities:
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
 **2023**
+
+**Conference**: [Journées annuelles du GT CombAlg + Journée de l'ANR Combiné ]([http://www.catmi.no/](https://jagtcombalg.sciencesconf.org/)). Université Paris-Cité, July 3-5, 2023. Paris, France. 
 
 **Workshop**: [Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI 2023)](http://www.catmi.no/). Lie-Størmer Center. June 26–30, 2023. Bergen, Norway. 
 
