@@ -10,7 +10,12 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**[Summer School in Algebraic, Asymptotic and Enumerative Combinatorics](https://sites.google.com/impan.pl/23-summeralgcom)**, *Series on species and moment-to-cumulant formulae* (Talk). Mathematical Research and Conference Center, Będlewo.
+**2024**
+
+**Mini course**: [Introduction to combinatorial species through algebraic combinatorics, geometry and physics] International conference *Algebraic, analytic, geometric structures emerging from 
+quantum field theory*, Sichuan University, Chengdu, 4th- 8th March 2024 (School) and 11th-15th March 2024 (Workshop).
+
+
 
 
 ### Past activities:
@@ -18,6 +23,8 @@ classes: wide
 ---
 
 **2023**
+
+**[Summer School in Algebraic, Asymptotic and Enumerative Combinatorics](https://sites.google.com/impan.pl/23-summeralgcom)**, *Series on species and moment-to-cumulant formulae* (Talk). Mathematical Research and Conference Center, Będlewo.
 
 **Conference**: [Journées annuelles du GT CombAlg + Journée de l'ANR Combiné ]([http://www.catmi.no/](https://jagtcombalg.sciencesconf.org/)). Université Paris-Cité, July 3-5, 2023. Paris, France. 
 
