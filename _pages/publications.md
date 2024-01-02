@@ -10,6 +10,12 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
+**"[Two associative operads of packed words](https://arxiv.org/abs/2311.10180)"**, joint with Samuele Giraudo.
+
+**"[Schröder trees, antipode formulas and non-commutative probability](https://arxiv.org/abs/2311.07824)"**, joint with Adrian Celestino.
+
+**"[An operad structure on the free commutative monoid over a positive operad](https://arxiv.org/abs/2311.03808)"**, joint with Dominique Manchon, Hedi Regeiba and Imen Rjaiba.
+
 **“[Hopf algebras of Stirling permutations and planar trees](https://www.sciencedirect.com/science/article/pii/S0196885822001208)"**, joint with Amy
 Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Mathematics*, Volume 143, February 2023, 102436.
 
@@ -35,6 +41,8 @@ Cambridge University Press, to appear.
 ### Ongoing projects
 {: style="font-size:.85em; color: #7a8288;"}
 ---
+
+**"Connes-Kreimer Hopf monoid, grafting operators and up/down operators"**, joint with Pierre Clavier and Sylvie Paycha.
 
 **"Algebraic structure of the Hopf algebra of packed words"**.
 
