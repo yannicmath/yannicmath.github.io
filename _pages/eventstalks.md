@@ -24,6 +24,8 @@ quantum field theory*, Sichuan University, Chengdu, 4th- 8th March 2024 (School)
 
 **2023**
 
+**PAGCAP Workshop**: [Orsay workshop](https://pagcap.lisn.upsaclay.fr/2023-orsay-workshop.html). May 14-17, 2023. Weissensee, Austria. Talk: *From combinatorics to non-commutative probability: a Hopf-route*.
+
 **[Summer School in Algebraic, Asymptotic and Enumerative Combinatorics](https://sites.google.com/impan.pl/23-summeralgcom)**, *Series on species and moment-to-cumulant formulae* (Talk). Mathematical Research and Conference Center, Będlewo.
 
 **Conference**: [Journées annuelles du GT CombAlg + Journée de l'ANR Combiné ]([http://www.catmi.no/](https://jagtcombalg.sciencesconf.org/)). Université Paris-Cité, July 3-5, 2023. Paris, France. 
