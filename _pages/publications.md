@@ -14,7 +14,7 @@ classes: wide
 
 **"[Schröder trees, antipode formulas and non-commutative probability](https://arxiv.org/abs/2311.07824)"**, joint with Adrian Celestino.
 
-**"[An operad structure on the free commutative monoid over a positive operad](https://arxiv.org/abs/2311.03808)"**, joint with Dominique Manchon, Hedi Regeiba and Imen Rjaiba.
+**"[On the free commutative monoid over a positive operad](https://arxiv.org/abs/2311.03808)"**, joint with Dominique Manchon, Hedi Regeiba and Imen Rjaiba.
 
 **“[Hopf algebras of Stirling permutations and planar trees](https://www.sciencedirect.com/science/article/pii/S0196885822001208)"**, joint with Amy
 Pang, Nantel Bergeron, Rafael González and Shu Xiao Li. *Advances in Applied Mathematics*, Volume 143, February 2023, 102436.
