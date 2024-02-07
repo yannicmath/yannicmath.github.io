@@ -12,8 +12,8 @@ classes: wide
 
 **2024**
 
-**Mini course**: *Introduction to combinatorial species through algebraic combinatorics, geometry and physics*. International conference *Algebraic, analytic, geometric structures emerging from 
-quantum field theory*, Sichuan University, Chengdu, 4th- 8th March 2024 (School) and 11th-15th March 2024 (Workshop).
+**Mini course**: *Introduction to combinatorial species through algebraic combinatorics, geometry and physics*. International conference [*Algebraic, analytic, geometric structures emerging from 
+quantum field theory*](https://math.scu.edu.cn/info/1031/10971.htm), Sichuan University, Chengdu, 4th- 8th March 2024 (School) and 11th-15th March 2024 (Workshop).
 
 
 
