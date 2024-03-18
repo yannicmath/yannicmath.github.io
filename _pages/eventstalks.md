@@ -12,8 +12,7 @@ classes: wide
 
 **2024**
 
-**Mini course**: *Introduction to combinatorial species through algebraic combinatorics, geometry and physics*. International conference [*Algebraic, analytic, geometric structures emerging from 
-quantum field theory*](https://math.scu.edu.cn/info/1031/10971.htm), Sichuan University, Chengdu, 4th- 8th March 2024 (School) and 11th-15th March 2024 (Workshop).
+**Talk**: *Schröder trees, antipode formulas and non-commutative probability*. *Séminaire Lotharingien de Combinatoire 91*. International conference [*Séminaire Lotharingien de Combinatoire 91*](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-combinatoire-91), Salobreña, Spain, 17th- 20th March 2024.
 
 
 
@@ -23,6 +22,9 @@ quantum field theory*](https://math.scu.edu.cn/info/1031/10971.htm), Sichuan Uni
 ---
 
 **2023**
+
+**Mini course**: *Introduction to combinatorial species through algebraic combinatorics, geometry and physics*. International conference [*Algebraic, analytic, geometric structures emerging from 
+quantum field theory*](https://math.scu.edu.cn/info/1031/10971.htm), Sichuan University, Chengdu, 4th- 8th March 2024 (School) and 11th-15th March 2024 (Workshop).
 
 **PAGCAP Workshop**: [Orsay workshop](https://pagcap.lisn.upsaclay.fr/2023-orsay-workshop.html). May 14-17, 2023. Weissensee, Austria. Talk: *From combinatorics to non-commutative probability: a Hopf-route*.
 
