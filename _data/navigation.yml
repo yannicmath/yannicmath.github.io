@@ -3,8 +3,11 @@ main:
   - title: "About"
     url: "/"
 
+  - title: "Events and talks"
+    url: /eventstalks/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Events and talks"
-    url: /eventstalks/
+  - title: "Teaching"
+    url: /teaching/
