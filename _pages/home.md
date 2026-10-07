@@ -24,4 +24,18 @@ Previously, I completed my Ph.D. in Mathematical Combinatorics at the [Laboratoi
 
 You can look at some of my work on [arXiv](https://arxiv.org/search/?query=yannic+vargas&searchtype=all&source=header).
 
+I follow [Federico Ardila](https://fardila.com/)'s **axioms** on educational and societal views of mathematics:
+
+*Axiom 1*. Mathematical potential is equally present in different groups, irrespective of geographic, demographic, and economic boundaries.
+*Axiom 2*. Everyone can have joyful, meaningful, and empowering mathematical experiences.
+*Axiom 3*. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.
+*Axiom 4*. Every student deserves to be treated with dignity and respect.
+
+*These statements should not sound revolutionary, but considering the current practices of the mathematical society, they are a pressing call to action* - F.Ardila. 
+
+I frequently visit the following websites:
+- [Chronique π-Mensuelle de Mathématiques](https://dominiquemanchon.go.yj.fr/blog.html): a new french blog written by Dominique Manchon.
+- [The n-Category Café](https://golem.ph.utexas.edu/category/).
+
+
 Please contact me with any questions (email on the left).
