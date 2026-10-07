@@ -6,7 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I am a postdoctoral researcher at [Institut für Diskrete Mathematik](https://www.math.tugraz.at/idm/) at the [Graz University of Technology](https://www.tugraz.at/home) (TU Graz).
+Hi! I am a Assistant Professor (tenure-track) in the [Mathematics Department](https://www.cunef.edu/en/faculty-and-research/faculty/) of [CUNEF Universidad](https://www.cunef.edu/en/). 
+
+Previously I was a postdoctoral researcher at [Institut für Diskrete Mathematik](https://www.math.tugraz.at/idm/) at the [Graz University of Technology](https://www.tugraz.at/home) (TU Graz).
 
 I am a member of the ANR-FWF International Cooperation Project [PAGCAP](https://pagcap.lisn.upsaclay.fr/) (Beyond Permutahedra and Associahedra: Geometry, Combinatorics, Algebra, and Probability), working with [Cesar CEBALLOS](http://www.geometrie.tugraz.at/ceballos/index.html) and [Franz LEHNER](https://www.math.tugraz.at/~lehner/).
 
