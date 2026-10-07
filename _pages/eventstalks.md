@@ -10,9 +10,9 @@ classes: wide
 {: style="font-size:.85em; color: #7a8288;"}
 ---
 
-**2024**
+**2026**
 
-**Talk**: *Schröder trees, antipode formulas and non-commutative probability*. *Séminaire Lotharingien de Combinatoire 91*. International conference [*Séminaire Lotharingien de Combinatoire 91*](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-combinatoire-91), Salobreña, Spain, 17th- 20th March 2024.
+**(online) Talk**: *Nested pre-Lie operads and infinitesimal Hopf algebras*. [*International Conference on Operad Theory and Related Topics*](http://tianyuan.amss.ac.cn/aac/info/2026/146266.html), [Tianyuan Mathematics Research Center](http://tianyuan.amss.ac.cn/en/), Kunming, China, 12th – 16th October, 2026.
 
 
 
@@ -20,6 +20,10 @@ classes: wide
 ### Past activities:
 {: style="font-size:.85em; color: #7a8288;"}
 ---
+
+**2024**
+
+**Talk**: *Schröder trees, antipode formulas and non-commutative probability*. *Séminaire Lotharingien de Combinatoire 91*. International conference [*Séminaire Lotharingien de Combinatoire 91*](https://gestioneventos.us.es/slc91-seminaire-lotharingien-de-combinatoire-91), Salobreña, Spain, 17th- 20th March 2024.
 
 **2023**
 
