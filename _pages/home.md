@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I am a Assistant Professor (tenure-track) in the [Mathematics Department](https://www.cunef.edu/en/faculty-and-research/faculty/) of [CUNEF Universidad](https://www.cunef.edu/en/). 
+Hi! I am a Assistant Professor (on tenure-track) in the [Mathematics Department](https://www.cunef.edu/en/faculty-and-research/faculty/) of [CUNEF Universidad](https://www.cunef.edu/en/). 
 
 Previously I was a postdoctoral researcher at [Institut für Diskrete Mathematik](https://www.math.tugraz.at/idm/) at the [Graz University of Technology](https://www.tugraz.at/home) (TU Graz).
 
