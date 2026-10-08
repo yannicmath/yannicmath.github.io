@@ -6,7 +6,7 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I am a Assistant Professor (on tenure-track) in the [Mathematics Department](https://www.cunef.edu/en/faculty-and-research/faculty/) of [CUNEF Universidad](https://www.cunef.edu/en/). 
+Hi! I am a Assistant Professor (tenure-track) in the [Mathematics Department](https://www.cunef.edu/en/faculty-and-research/faculty/) at [CUNEF Universidad](https://www.cunef.edu/en/). 
 
 My mathematical interests lie primarily in enumerative and algebraic combinatorics. My research focuses on problems related to non-commutative probability, mathematical physics, combinatorics on words, combinatorial Hopf algebras, operads and species.
 <!---
