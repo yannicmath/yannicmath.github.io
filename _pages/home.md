@@ -9,9 +9,9 @@ classes: wide
 Hi! I am a Assistant Professor (on tenure-track) in the [Mathematics Department](https://www.cunef.edu/en/faculty-and-research/faculty/) of [CUNEF Universidad](https://www.cunef.edu/en/). 
 
 My mathematical interests lie primarily in enumerative and algebraic combinatorics. My research focuses on problems related to non-commutative probability, mathematical physics, combinatorics on words, combinatorial Hopf algebras, operads and species.
-
+<!---
 Previously I was a postdoctoral researcher at [Institut für Diskrete Mathematik](https://www.math.tugraz.at/idm/) at the [Graz University of Technology](https://www.tugraz.at/home) (TU Graz). I was a member of the ANR-FWF International Cooperation Project [PAGCAP](https://pagcap.lisn.upsaclay.fr/) (Beyond Permutahedra and Associahedra: Geometry, Combinatorics, Algebra, and Probability), working with [Cesar Ceballos](http://www.geometrie.tugraz.at/ceballos/index.html) and [Franz Lehner](https://www.math.tugraz.at/~lehner/). I also held postdoctoral and visitor positions at the [Weierstrass Institute for Applied Analysis and Stochastics](https://www.wias-berlin.de/) (with [Peter Friz](https://page.math.tu-berlin.de/~friz/)), the [Working Group on Analysis](https://www.math.uni-potsdam.de/en/professuren/translate-to-english-analysis) of the Institute of Mathematics at the University of Potsdam (with [Sylvie Paycha](https://www.math.uni-potsdam.de/professuren/analysis/personen/prof-dr-sylvie-paycha/)), Instituto Venezolano de Investigaciones Científicas (with Miguel Méndez and Stella Brassesco) and York University and the [Fields Insitute](http://www.fields.utoronto.ca/) (with [Nantel Bergeron](https://bergeron.mathstats.yorku.ca/)). 
-
+-->
 
 
 <!---
