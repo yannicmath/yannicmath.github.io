@@ -14,7 +14,7 @@ classes: wide
 
 **(online) Talk**: *Nested pre-Lie operads and infinitesimal Hopf algebras*. [*International Conference on Operad Theory and Related Topics*](http://tianyuan.amss.ac.cn/aac/info/2026/146266.html), [Tianyuan Mathematics Research Center](http://tianyuan.amss.ac.cn/en/), Kunming, China, 12th – 16th October, 2026.
 
-
+**Talk**: *Species with grafting operators*. *Séminaire Physique mathématique*. [Institut Camille Jorda](https://math.univ-lyon1.fr/icj/probabilites-statistique-physique-mathematique/), Université Claude Bernard Lyon 1. Lyon, France, October 15th, 2026.
 
 
 ### Past activities:
