@@ -16,7 +16,7 @@ classes: wide
 
 **Talk**: *Species with grafting operators*. *Séminaire Physique mathématique*. [Institut Camille Jorda](https://math.univ-lyon1.fr/icj/probabilites-statistique-physique-mathematique/), Université Claude Bernard Lyon 1. Lyon, France, October 15th, 2026.
 
-
+---
 ### Past activities:
 {: style="font-size:.85em; color: #7a8288;"}
 ---
