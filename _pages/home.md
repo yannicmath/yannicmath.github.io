@@ -29,7 +29,7 @@ I follow [Federico Ardila](https://fardila.com/)'s **axioms** on educational and
 *Axiom 2*. Everyone can have joyful, meaningful, and empowering mathematical experiences.\
 *Axiom 3*. Mathematics is a powerful, malleable tool that can be shaped and used differently by various communities to serve their needs.\
 *Axiom 4*. Every student deserves to be treated with dignity and respect.
-> These statements should not sound revolutionary, but considering the current practices of the mathematical society, they are a pressing call to action - F.Ardila. 
+> These statements should not sound revolutionary, but considering the current practices of the mathematical society, they are a pressing call to action - F. Ardila. 
 
 I frequently visit the following websites:
 - [Chronique π-Mensuelle de Mathématiques](https://dominiquemanchon.go.yj.fr/blog.html): a new french blog written by Dominique Manchon.
